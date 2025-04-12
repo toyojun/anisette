@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "tyjn",
+            "address": "https://anisette-v3-server-a9rd.onrender.com"
+        }
+    ]
+}
